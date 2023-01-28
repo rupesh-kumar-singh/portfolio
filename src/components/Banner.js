@@ -44,7 +44,7 @@ const Banner = () => {
                 <p>{state.text}</p>
                 <div className="header__buttons">
                   <a
-                    // href="https://drive.google.comput resume here"
+                    href="https://drive.google.com/file/d/1h1Mw2hNvil-XSqUshxdyHel-W01PTYDF/view"
                     target="_blank"
                     className="btn btn-outline"
                   >
@@ -61,9 +61,7 @@ const Banner = () => {
             </div>
           </div>
           <div className="col-6">
-            <div className="banner__img">
-              {/* <img src={state.image} alt="man" /> */}
-            </div>
+            <div className="banner__img"></div>
           </div>
         </div>
       </div>

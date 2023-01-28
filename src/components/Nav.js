@@ -43,7 +43,7 @@ const Nav = () => {
               </Link>
               <li>
                 <a
-                  // href="https://drive.google.put resume here"
+                  href="https://drive.google.com/file/d/1h1Mw2hNvil-XSqUshxdyHel-W01PTYDF/view"
                   target="_blank"
                   className="btn btn-outline"
                 >
